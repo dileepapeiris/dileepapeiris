@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="www.linkedin.com/in/dileepa-peiris">Dileepa Peiris!</a></h1>
-<h3 align="center">Code is my language, and technology is my canvas.</h3>
+<h3 align="center">Programming is my voice, and technology is my art.</h3>
 
 [![Linkedin: anjula-sack](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=www.linkedin.com/in/dileepa-peiris/)][linkedin]
 
