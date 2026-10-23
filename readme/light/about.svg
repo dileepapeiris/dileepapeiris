@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="184" viewBox="0 0 860 184">
+<defs>
+  <linearGradient id="shine" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#4630eb" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#4630eb" stop-opacity="1"/>
+    <stop offset="1" stop-color="#4630eb" stop-opacity="0"/>
+    <animate attributeName="x1" values="-1;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="0;2" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <clipPath id="card"><rect x="1" y="1" width="858" height="182" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="858" height="182" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<g clip-path="url(#card)"><rect x="0" y="0" width="860" height="3" fill="url(#shine)"/></g>
+<text x="32.0" y="40.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#4630eb" text-anchor="start" >01</text><text x="56.0" y="40.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" font-weight="600" fill="#59636e" text-anchor="start" letter-spacing="1.5">ABOUT</text><rect x="36" y="69" width="8" height="8" rx="2" fill="#8c959f"/><text x="60.0" y="78.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#1f2328" text-anchor="start" >Final-year undergraduate at the University of Westminster</text><g transform="translate(32.0,99.0) scale(0.6667)" fill="#4630eb" fill-rule="evenodd"><path d="M0 20.084c.043.53.23 1.063.718 1.778.58.849 1.576 1.315 2.303.567.49-.505 5.794-9.776 8.35-13.29a.761.761 0 011.248 0c2.556 3.514 7.86 12.785 8.35 13.29.727.748 1.723.282 2.303-.567.57-.835.728-1.42.728-2.046 0-.426-8.26-15.798-9.092-17.078-.8-1.23-1.044-1.498-2.397-1.542h-1.032c-1.353.044-1.597.311-2.398 1.542C8.267 3.991.33 18.758 0 19.77Z"/></g><text x="60.0" y="112.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#1f2328" text-anchor="start" >Expo contributor shipping Android and UI fixes to expo/expo</text><rect x="36" y="137" width="8" height="8" rx="2" fill="#8c959f"/><text x="60.0" y="146.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#1f2328" text-anchor="start" >I find bugs, build a minimal repro, and fix them upstream</text>
+</svg>
