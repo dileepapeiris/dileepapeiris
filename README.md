@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/header.svg"/><img src="readme/light/header.svg" width="100%" alt="Dileepa Peiris: final-year undergraduate, QE Intern at Cut+Dry, ex-SWE Intern at WSO2, Expo and AndroidX contributor"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/header.svg"/><img src="readme/light/header.svg" width="100%" alt="Dileepa Peiris: final-year undergraduate and open source contributor to Expo, AndroidX, WSO2 and OpenMRS"/></picture>
 
 <a href="https://dileepapeiris.is-a.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=vercel&logoColor=e6edf3"/><img src="https://img.shields.io/badge/PORTFOLIO-f6f8fa?style=for-the-badge&logo=vercel&logoColor=1f2328&labelColor=f6f8fa" alt="PORTFOLIO"/></picture></a>
 <a href="https://x.com/dileepa_dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=e6edf3"/><img src="https://img.shields.io/badge/X-f6f8fa?style=for-the-badge&logo=x&logoColor=1f2328&labelColor=f6f8fa" alt="X"/></picture></a>
@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/about.svg"/><img src="readme/light/about.svg" width="100%" alt="About"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/route.svg"/><img src="readme/light/route.svg" width="100%" alt="The route so far: SWE Intern at WSO2 (06/25 – 06/26), QE Intern at Cut+Dry (07/26 – present)"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/route.svg"/><img src="readme/light/route.svg" width="100%" alt="The route so far: WSO2 open source contributor (06/25 – 06/26), independent open source contributor (10/25 – present)"/></picture>
 
 <a href="https://github.com/expo/expo/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/expo.svg"/><img src="readme/light/expo.svg" width="100%" alt="Expo contributions"/></picture></a>
 
@@ -23,7 +23,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/con.svg"/><img src="readme/light/con.svg" width="100%" alt="WSO2Con apps"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/at_wso2.svg"/><img src="readme/light/at_wso2.svg" width="100%" alt="More at WSO2: Authenticator, Asgardeo SDK, Oxygen UI"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/at_wso2.svg"/><img src="readme/light/at_wso2.svg" width="100%" alt="More WSO2 open source: Authenticator, Asgardeo SDK, Oxygen UI"/></picture>
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/more.svg"/><img src="readme/light/more.svg" width="100%" alt="More open source contributions"/></picture></a>
 
