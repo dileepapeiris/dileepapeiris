@@ -13,7 +13,7 @@
 
 <a href="https://github.com/expo/expo/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/expo.svg"/><img src="readme/light/expo.svg" width="100%" alt="Expo contributions"/></picture></a>
 
-<a href="https://android-review.googlesource.com/c/platform/frameworks/support/+/4389664"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/androidx.svg"/><img src="readme/light/androidx.svg" width="100%" alt="AndroidX contribution: Jetpack Compose Material3 ModalBottomSheet fix, Gerrit change 4389664"/></picture></a>
+<a href="https://android-review.googlesource.com/c/platform/frameworks/support/+/4389664"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/androidx.svg"/><img src="readme/light/androidx.svg" width="100%" alt="AndroidX contribution: Jetpack Compose Material3 ModalBottomSheet fix, Gerrit change 4389664, merged 11/16/26"/></picture></a>
 
 <a href="https://github.com/wso2-open-operations/cs-tools/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/portal.svg"/><img src="readme/light/portal.svg" width="100%" alt="WSO2 Customer Portal contributions"/></picture></a>
 
