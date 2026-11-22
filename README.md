@@ -11,8 +11,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/about.svg"/><img src="readme/light/about.svg" width="100%" alt="About"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/route.svg"/><img src="readme/light/route.svg" width="100%" alt="The route so far: WSO2 open source contributor (06/25 – 06/26), independent open source contributor (10/25 – present)"/></picture>
-
 <a href="https://github.com/expo/expo/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/expo.svg"/><img src="readme/light/expo.svg" width="100%" alt="Expo contributions"/></picture></a>
 
 <a href="https://android-review.googlesource.com/c/platform/frameworks/support/+/4389664"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/androidx.svg"/><img src="readme/light/androidx.svg" width="100%" alt="AndroidX contribution: Jetpack Compose Material3 ModalBottomSheet fix, Gerrit change 4389664"/></picture></a>
