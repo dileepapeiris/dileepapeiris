@@ -25,8 +25,4 @@
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/more.svg"/><img src="readme/light/more.svg" width="100%" alt="More open source contributions"/></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/contributions.svg"/><img src="readme/light/contributions.svg" width="100%" alt="Contribution activity"/></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/stack.svg"/><img src="readme/light/stack.svg" width="100%" alt="Tech stack"/></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/dark/footer.svg"/><img src="readme/light/footer.svg" width="100%" alt="Currently"/></picture>
