@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/about.svg?v=3"/><img src="cards/light/about.svg?v=3" width="100%" alt="About"/></picture>
 
-<a href="https://github.com/expo/expo/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/expo.svg?v=2"/><img src="cards/light/expo.svg?v=2" width="100%" alt="Expo contributions"/></picture></a>
+<a href="https://github.com/expo/expo/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/expo.svg?v=3"/><img src="cards/light/expo.svg?v=3" width="100%" alt="Expo contributions"/></picture></a>
 
 <a href="https://android-review.googlesource.com/c/platform/frameworks/support/+/4389664"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/androidx.svg?v=2"/><img src="cards/light/androidx.svg?v=2" width="100%" alt="AndroidX contribution: Jetpack Compose Material3 ModalBottomSheet fix, Gerrit change 4389664, merged 11/16/26"/></picture></a>
 
