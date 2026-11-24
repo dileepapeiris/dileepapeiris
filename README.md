@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/header.svg"/><img src="cards/light/header.svg" width="100%" alt="Dileepa Peiris: final-year undergraduate and open source contributor to Expo, AndroidX, WSO2 and OpenMRS"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/header.svg"/><img src="cards/light/header.svg" width="100%" alt="Dileepa Peiris: final year undergraduate and open source contributor to Expo, AndroidX, WSO2 and OpenMRS"/></picture>
 
 <a href="https://dileepapeiris.is-a.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=vercel&logoColor=e6edf3"/><img src="https://img.shields.io/badge/PORTFOLIO-f6f8fa?style=for-the-badge&logo=vercel&logoColor=1f2328&labelColor=f6f8fa" alt="PORTFOLIO"/></picture></a>
 <a href="https://x.com/dileepa_dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=e6edf3"/><img src="https://img.shields.io/badge/X-f6f8fa?style=for-the-badge&logo=x&logoColor=1f2328&labelColor=f6f8fa" alt="X"/></picture></a>
