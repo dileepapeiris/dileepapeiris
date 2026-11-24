@@ -19,10 +19,10 @@
 
 <a href="https://github.com/opensuperapp/opensuperapp/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/superapp.svg?v=2"/><img src="cards/light/superapp.svg?v=2" width="100%" alt="WSO2 Open Super App contributions"/></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/con.svg"/><img src="cards/light/con.svg" width="100%" alt="WSO2Con apps"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/con.svg?v=2"/><img src="cards/light/con.svg?v=2" width="100%" alt="WSO2Con apps"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/at_wso2.svg"/><img src="cards/light/at_wso2.svg" width="100%" alt="More WSO2 open source: Authenticator, Asgardeo SDK, Oxygen UI"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/at_wso2.svg?v=2"/><img src="cards/light/at_wso2.svg?v=2" width="100%" alt="More WSO2 open source: Authenticator, Asgardeo SDK, Oxygen UI"/></picture>
 
-<a href="https://github.com/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/more.svg"/><img src="cards/light/more.svg" width="100%" alt="More open source contributions"/></picture></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Adileepapeiris"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/more.svg?v=2"/><img src="cards/light/more.svg?v=2" width="100%" alt="More open source contributions"/></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/footer.svg"/><img src="cards/light/footer.svg" width="100%" alt="Currently"/></picture>
